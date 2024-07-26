@@ -1,0 +1,9 @@
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# Virtual environments
+venv/
+env/
